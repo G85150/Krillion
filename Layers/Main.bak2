@@ -1,7 +1,7 @@
 <ObjectLayer>
  <Layer Name="Main" GUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1">
   <LayerObjects>
-   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{A6020204-1524-4686-9F72-E2EA04E95E71}" Name="window_up_d2" Pos="507.74548,679.32758,40.982212" FloorNumber="-1" Rotate="0.66913056,0,0,-0.74314487" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/architecture/buildings/hangar/window_up_d.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
+   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{A6020204-1524-4686-9F72-E2EA04E95E71}" Name="window_up_d2" Pos="507.74548,679.39417,40.882607" FloorNumber="-1" Rotate="0.66913056,0,0,-0.74314487" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/architecture/buildings/hangar/window_up_d.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
     <Properties esFaction="">
      <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
      <RenderProxyOptions bAnimateOffScreenShadow="0"/>
@@ -71,7 +71,13 @@
      <RenderProxyOptions bAnimateOffScreenShadow="0"/>
     </Properties>
    </Object>
-   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{59FD852E-9A85-4910-8AEF-6A4AE628AA8F}" Name="window_up_d1" Pos="502.78735,680.01782,40.991341" FloorNumber="-1" Rotate="0.65603393,0.0065860008,0.0057251216,-0.75468093" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/architecture/buildings/hangar/window_up_d.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
+   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{CA736A21-20D1-4A90-9F41-D108004F8BCC}" Name="forest_skydome1" Pos="505.71417,636.30096,39.038322" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/sky/forest_skydome.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{59FD852E-9A85-4910-8AEF-6A4AE628AA8F}" Name="window_up_d1" Pos="502.78735,680.01782,40.879215" FloorNumber="-1" Rotate="0.65603393,0.0065860008,0.0057251216,-0.75468093" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/architecture/buildings/hangar/window_up_d.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
     <Properties esFaction="">
      <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
      <RenderProxyOptions bAnimateOffScreenShadow="0"/>
@@ -337,7 +343,7 @@
      <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
     </Properties>
    </Object>
-   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{F3ABF2A7-9F99-4A5B-AEF3-19D2BAD5D30C}" Name="hangar_platform_stair1" Pos="503.24765,678.09534,32.027412" FloorNumber="-1" Rotate="0.74894905,-0.012317698,0.00075338024,0.66251266" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/architecture/buildings/hangar/hangar_platform_stair.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
+   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{F3ABF2A7-9F99-4A5B-AEF3-19D2BAD5D30C}" Name="hangar_platform_stair1" Pos="503.17599,678.17755,32.008286" FloorNumber="-1" Rotate="0.74905652,-1.1705901e-07,-1.8780191e-06,0.6625061" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/architecture/buildings/hangar/hangar_platform_stair.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
     <Properties esFaction="">
      <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
      <RenderProxyOptions bAnimateOffScreenShadow="0"/>
@@ -374,7 +380,7 @@
    <Object Type="Entity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{510041E8-16DC-44DD-AE31-43B93549620B}" Name="SpawnPoint1" Pos="522.37836,494.1763,31.998421" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="SpawnPoint" HasEntity="1">
     <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
    </Object>
-   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{CDC4A0E9-69C0-49FA-90BC-A199C3452447}" Name="window_up_a1" Pos="496.25742,667.23694,37.22607" FloorNumber="-1" Rotate="0.74311656,-0.0073186886,-0.0047528106,0.66910517" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/architecture/buildings/hangar/window_up_a.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
+   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{CDC4A0E9-69C0-49FA-90BC-A199C3452447}" Name="window_up_a1" Pos="496.17618,667.23694,37.158146" FloorNumber="-1" Rotate="0.74311656,-0.0073186886,-0.0047528106,0.66910517" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/architecture/buildings/hangar/window_up_a.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
     <Properties esFaction="">
      <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
      <RenderProxyOptions bAnimateOffScreenShadow="0"/>

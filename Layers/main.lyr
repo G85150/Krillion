@@ -29,7 +29,7 @@
      <RenderProxyOptions bAnimateOffScreenShadow="0"/>
     </Properties>
    </Object>
-   <Object Type="Entity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{054E370B-BA5B-4A65-8FD5-91BEF1B8F4CB}" Name="Abrams1" Pos="538.08246,644.74182,31.963734" FloorNumber="-1" Rotate="-5.9604652e-08,0,0,1" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="Abrams" HasEntity="1">
+   <Object Type="Entity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{054E370B-BA5B-4A65-8FD5-91BEF1B8F4CB}" Name="Abrams1" Pos="538.08246,644.74182,31.963734" FloorNumber="-1" Rotate="0.1391677,0.008641609,-0.0012144981,0.99023038" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="Abrams" HasEntity="1">
     <Properties accuracy="1" aicharacter_character="Tank" attackrange="100" bAutoGenAIHidePts="0" bCanUsePrimaryWeapon="1" bCanUseSecondaryWeapon="0" commrange="100" bDisableEngine="0" esFaction="" bFactionHostility="1" followDistance="5" bHeavyObject="0" bHidesPlayer="0" bInteractLargeObject="0" leaderName="" Modification="" esNavigationType="VehicleMedium" Paint="" bProvideAICover="1" soclasses_SmartObjectClass="" bSyncPhysics="1" teamName="">
      <AIPressureAOE bFriendlyEnable="0" friendlyPressureDec="0" friendlyRadius="0" bHostileEnable="0" hostilePressureInc="0" hostileRadius="0"/>
      <Perception FOVPrimary="-1" FOVSecondary="-1" persistence="10" sightrange="400" sightrangeVehicle="-1" stanceScale="1"/>
@@ -78,6 +78,12 @@
     </Properties>
    </Object>
    <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{59FD852E-9A85-4910-8AEF-6A4AE628AA8F}" Name="window_up_d1" Pos="502.78735,680.01782,40.879215" FloorNumber="-1" Rotate="0.65603393,0.0065860008,0.0057251216,-0.75468093" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/architecture/buildings/hangar/window_up_d.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{85E92D30-B63F-444E-9B65-3621B84DBC4F}" Name="hangar_gate1" Pos="503.17355,648.83282,35.8531" FloorNumber="-1" Rotate="0.7547096,0,0,0.65605903" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/architecture/buildings/hangar/hangar_gate.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
     <Properties esFaction="">
      <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
      <RenderProxyOptions bAnimateOffScreenShadow="0"/>
