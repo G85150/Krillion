@@ -83,6 +83,12 @@
      <RenderProxyOptions bAnimateOffScreenShadow="0"/>
     </Properties>
    </Object>
+   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{85E92D30-B63F-444E-9B65-3621B84DBC4F}" Name="hangar_gate1" Pos="503.17355,648.83282,35.8531" FloorNumber="-1" Rotate="0.7547096,0,0,0.65605903" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/architecture/buildings/hangar/hangar_gate.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+   </Object>
    <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{C6152537-3CD4-4A0C-9D67-8787EB9052F9}" Name="set_b_closed_room1" Pos="482.73581,712.46948,32.153534" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/architecture/scifi/set_b/set_b_closed_room.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
     <Properties esFaction="">
      <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
