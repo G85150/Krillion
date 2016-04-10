@@ -1,0 +1,6 @@
+<download name="Krillion" type="Map">
+ <index src="filelist.xml" dest="filelist.xml"/>
+ <files>
+  <file src="level.pak" dest="level.pak" size="1194216" md5="f05d218d2a489310bee60a0acbc89077"/>
+ </files>
+</download>

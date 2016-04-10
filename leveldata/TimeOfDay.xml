@@ -1,0 +1,5 @@
+<TimeOfDay Time="16.643166" TimeStart="12" TimeEnd="12" TimeAnimSpeed="0">
+ <Presets>
+  <Preset Name="libs/environmentpresets/Krillion.xml" Default="1"/>
+ </Presets>
+</TimeOfDay>
