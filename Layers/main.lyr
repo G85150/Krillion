@@ -1,6 +1,12 @@
 <ObjectLayer>
  <Layer Name="Main" GUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1">
   <LayerObjects>
+   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{B944DA02-5407-4C45-8E86-17974B0F0126}" Name="pine_forest_distance_a13" Pos="560.1701,798.72375,30.818714" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/natural/woodland/pine_forest_distance_a.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+   </Object>
    <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{A6020204-1524-4686-9F72-E2EA04E95E71}" Name="window_up_d2" Pos="507.74548,679.39417,40.882607" FloorNumber="-1" Rotate="0.66913056,0,0,-0.74314487" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/architecture/buildings/hangar/window_up_d.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
     <Properties esFaction="">
      <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
@@ -18,6 +24,12 @@
     </Properties>
    </Object>
    <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{7446D506-9C72-40C0-8835-7806164177C9}" Name="set_b_ammo_box1" Pos="484.10489,725.53912,32.13308" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/architecture/scifi/set_b/set_b_ammo_box.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{63640D09-63B3-4326-88CD-64FDF4F6C58C}" Name="pine_forest_distance_a9" Pos="592.65894,321.12454,30.221169" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/natural/woodland/pine_forest_distance_a.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
     <Properties esFaction="">
      <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
      <RenderProxyOptions bAnimateOffScreenShadow="0"/>
@@ -43,6 +55,12 @@
     </Properties>
     <Properties2 bAutoDisable="1" aibehavior_behaviour="TankIdle" bCircularPath="0" FormationType="" groupid="173" PathName="" bProvideAICover="1" triggerRadius="90"/>
    </Object>
+   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{ECEE0D0F-F6BF-4617-8369-6AEACF3014C5}" Name="pine_forest_distance_a11" Pos="728.99841,499.19186,29.37273" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/natural/woodland/pine_forest_distance_a.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+   </Object>
    <Object Type="Entity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{3A5FE010-5E96-4ADB-B03D-5BAE4E9F93B1}" Name="Light7" Pos="504.55905,678.72498,41.643616" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="Light" HasEntity="1">
     <Properties bActive="1" fAttenuationBulbSize="0.05" Radius="10" _nVersion="-1">
      <Color clrDiffuse="1,1,1" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
@@ -51,6 +69,18 @@
      <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
      <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
      <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{259B0212-E2B8-4C64-BE84-7EAD6331FC90}" Name="pine_forest_distance_a6" Pos="349.83337,496.82187,31.748547" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/natural/woodland/pine_forest_distance_a.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{147E2418-5328-4DF9-A6C2-04459C3F9CA0}" Name="pine_forest_distance_a18" Pos="685.42065,747.23804,29.625626" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/natural/woodland/pine_forest_distance_a.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
     </Properties>
    </Object>
    <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{3F49EF1B-D8FA-4D66-9817-6EF0DB41D116}" Name="set_b_closed_room_floor_raised2" Pos="482.15631,713.13879,32.018875" FloorNumber="-1" Rotate="1,0,0,0" Scale="1.14,1.14,1.14" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/architecture/scifi/set_b/set_b_closed_room_floor_raised.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
@@ -65,13 +95,13 @@
      <RenderProxyOptions bAnimateOffScreenShadow="0"/>
     </Properties>
    </Object>
-   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{7B059F20-8CF5-4C4A-A16E-09EF635CBF16}" Name="watertower1" Pos="487.37265,651.9765,31.710432" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/architecture/buildings/watertower/watertower.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
+   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{56389C1F-9573-4205-84AF-BE2C7B125588}" Name="pine_forest_distance_a10" Pos="708.89697,373.17188,30.530167" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/natural/woodland/pine_forest_distance_a.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
     <Properties esFaction="">
      <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
      <RenderProxyOptions bAnimateOffScreenShadow="0"/>
     </Properties>
    </Object>
-   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{CA736A21-20D1-4A90-9F41-D108004F8BCC}" Name="forest_skydome1" Pos="505.71417,636.30096,39.038322" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/sky/forest_skydome.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
+   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{7B059F20-8CF5-4C4A-A16E-09EF635CBF16}" Name="watertower1" Pos="487.37265,651.9765,31.710432" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/architecture/buildings/watertower/watertower.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
     <Properties esFaction="">
      <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
      <RenderProxyOptions bAnimateOffScreenShadow="0"/>
@@ -84,6 +114,12 @@
     </Properties>
    </Object>
    <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{85E92D30-B63F-444E-9B65-3621B84DBC4F}" Name="hangar_gate1" Pos="503.17355,648.83282,35.8531" FloorNumber="-1" Rotate="0.7547096,0,0,0.65605903" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/architecture/buildings/hangar/hangar_gate.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{4BC86735-5C0A-42D8-AA4A-36C70C452268}" Name="pine_forest_distance_a7" Pos="370.58972,367.87674,30.896343" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/natural/woodland/pine_forest_distance_a.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
     <Properties esFaction="">
      <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
      <RenderProxyOptions bAnimateOffScreenShadow="0"/>
@@ -195,11 +231,11 @@
      <Readability bIgnoreAnimations="0" bIgnoreVoice="0" bOverrideArchetype="0"/>
     </Properties2>
    </Object>
-   <Object Type="Brush" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{53A05654-93B6-4E3E-9821-5A67B57CAEDD}" Name="hangar5" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Assets/objects/architecture/buildings/hangar/hangar.cgf" OutdoorOnly="0" CastShadowMaps="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" NoAmnbShadowCaster="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610612744">
-    <CollisionFiltering>
-     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
-     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
-    </CollisionFiltering>
+   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{B90EA75D-6583-4AD4-8165-0C482BA07BEF}" Name="spruce_big_a2" Pos="426.38193,517.20972,31.976845" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/natural/woodland/spruce_big_a.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
    </Object>
    <Object Type="Entity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{48473564-E8CB-4DC6-B1D1-61AD7BF35D77}" Name="Light12" Pos="515.14575,675.42072,38.520634" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="Light" HasEntity="1">
     <Properties bActive="1" fAttenuationBulbSize="0.05" Radius="10" _nVersion="-1">
@@ -275,6 +311,12 @@
      <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
     </Properties>
    </Object>
+   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{9D570989-31C7-4318-B90A-525563262C8C}" Name="pine_forest_distance_a17" Pos="720.90991,617.59283,27.276951" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/natural/woodland/pine_forest_distance_a.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+   </Object>
    <Object Type="Entity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{033F888D-35A5-402D-9DB7-069F22E818EA}" Name="Light2" Pos="497.74023,670.2851,35.13562" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="Light" HasEntity="1">
     <Properties bActive="1" fAttenuationBulbSize="0.05" Radius="10" _nVersion="-1">
      <Color clrDiffuse="1,1,1" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
@@ -302,12 +344,6 @@
      <Respawn bAbandon="1" nAbandonTimer="90" bRespawn="0" nTimer="30" bUnique="0"/>
     </Properties>
     <Properties2 bProvideAICover="1"/>
-   </Object>
-   <Object Type="Brush" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{64034793-B064-4FF1-9EA3-E547C0C572D2}" Name="hangar4" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Assets/objects/architecture/buildings/hangar/hangar.cgf" OutdoorOnly="0" CastShadowMaps="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" NoAmnbShadowCaster="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610612744">
-    <CollisionFiltering>
-     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
-     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
-    </CollisionFiltering>
    </Object>
    <Object Type="Entity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{64CBF495-8A7B-4F3D-B008-38369174A582}" Name="Human5" Pos="516.8573,639.31232,31.87664" FloorNumber="-1" Rotate="-0.017452383,0,0,0.99984771" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="1" EntityClass="Human" HasEntity="1">
     <Properties aicharacter_character="" awarenessOfPlayer="0" esBehaviorSelection="HumanGrunt" esBehaviorSelectionTree="" aibehavior_behaviour="" eiColliderMode="0" esCommConfig="Human" commrange="15" bEnableHitReaction="1" equip_EquipmentPack="AI_Rifle" esFaction="Grunts" bFactionHostility="1" fFmodCharacterTypeParam="0" fileHitDeathReactionsParamsDataFile="Libs/HitDeathReactionsData/HitDeathReactions_SDKGrunt.xml" bInvulnerable="0" fileModel="objects/characters/human/sdk_player/sdk_player_red.cdf" nModelVariations="0" esModularBehaviorTree="SDK_Grunt_07" esNavigationType="MediumSizedCharacters" bOverrideAllowLookAimStrafing="1" physicMassMult="1" soclasses_SmartObjectClass="Human, Actor" SpawnedEntityName="" bSpawner="0" TagList="" bUsable="0" bUseFacialFrameRateLimiting="1" UseMessage="" useSpecialMovementTransitions="1" esVoice="AI_01">
@@ -339,6 +375,12 @@
      <Readability bIgnoreAnimations="0" bIgnoreVoice="0" bOverrideArchetype="0"/>
     </Properties2>
    </Object>
+   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{20B5949F-83BD-45EE-ACAE-EE75005912F3}" Name="pine_forest_distance_a15" Pos="363.73431,724.82098,31.153419" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/natural/woodland/pine_forest_distance_a.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+   </Object>
    <Object Type="Entity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{4A936FA7-1714-4C16-ABF8-1AA547FA00D9}" Name="Light14" Pos="512.7262,675.75891,33.530735" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="Light" HasEntity="1">
     <Properties bActive="1" fAttenuationBulbSize="0.05" Radius="10" _nVersion="-1">
      <Color clrDiffuse="1,1,1" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
@@ -350,6 +392,24 @@
     </Properties>
    </Object>
    <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{F3ABF2A7-9F99-4A5B-AEF3-19D2BAD5D30C}" Name="hangar_platform_stair1" Pos="503.17599,678.17755,32.008286" FloorNumber="-1" Rotate="0.74905652,-1.1705901e-07,-1.8780191e-06,0.6625061" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/architecture/buildings/hangar/hangar_platform_stair.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{6C02C4AA-3A7D-4CD9-9F31-1C256131B6DD}" Name="pine_forest_distance_a8" Pos="471.02936,320.56299,30.911541" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/natural/woodland/pine_forest_distance_a.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{72B558AB-C52F-413D-B58F-E0261366BD62}" Name="pine_forest_distance_a14" Pos="424.01312,854.68146,30.932224" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/natural/woodland/pine_forest_distance_a.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="Main" LayerGUID="{EC91F1AE-C6E2-47FD-998E-D2134832F3F0}" Id="{974FECBA-EA47-45D3-AF8C-20351238C744}" Name="pine_forest_distance_a16" Pos="346.16821,617.94299,32.031269" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" Geometry="Assets/objects/natural/woodland/pine_forest_distance_a.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity" HasEntity="1">
     <Properties esFaction="">
      <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
      <RenderProxyOptions bAnimateOffScreenShadow="0"/>
